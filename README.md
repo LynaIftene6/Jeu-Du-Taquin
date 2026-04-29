@@ -59,13 +59,7 @@ java -cp build Main
 
 ---
 
-## 📸 Aperçu
-
-*(Ajoute ici des captures d’écran de l’interface Swing et de la version console)*
-
----
-
-## 💡 Ce que j’ai appris
+## Ce que j’ai appris
 
 * Mise en pratique du modèle MVC
 * Gestion d’interfaces graphiques avec Java Swing
