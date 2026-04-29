@@ -51,8 +51,8 @@ Dans ce projet en équipe, je me suis principalement occupée de :
 ## Lancer le projet
 
 ```bash
-git clone ...
-cd ...
+git clone https://github.com/LynaIftene6/Jeu-Du-Taquin.git
+cd Jeu-Du-Taquin
 javac -d build src src/**/*.java src/controleur/*.java src/vue/*.java src/Main.java src/TestGrille.java
 java -cp build Main
 ```
