@@ -1,0 +1,20 @@
+ControleurConsole : 
+• LIT les touches z/q/s/d de l'utilisateur 
+• CALCULE le déplacement de la case vide
+• APPELLE grille.deplacer() → vue s'actualise seule
+
+Utilisé :
+- Scanner (lire clavier)
+- Grille (modèle)
+- VueConsole (affichage)
+- Pattern MVC/Observateur
+
+
+ControleurGraphique :
+• RÉCUPÈRE les clics souris (ligne,colonne)
+• VÉRIFIE limites grille (ignore hors bornes)
+• APPELLE grille.deplacer() → vue s'actualise seule
+
+Utilisé :
+- Grille (modèle)
+- Pattern MVC/Observateur
